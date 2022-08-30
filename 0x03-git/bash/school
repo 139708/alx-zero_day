@@ -1,3 +1,4 @@
 #!/bin/bash
 School
-merge branch update_script into branch main
+merge update_script branch into the main branch
+
